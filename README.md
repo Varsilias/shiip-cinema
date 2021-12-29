@@ -1,7 +1,7 @@
 # Shiip Cinema
 ## [Link to Live Project](https://shiip.herokuapp.com)  
 
-## About Shopeat
+## About Shiip Cinema
 
 **Shiip Cinema** is a solution for ideraos Laravel developer role
 ## Found it useful
